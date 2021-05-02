@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nicoyarce
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ReactJS and NodeJS
+- 📫 How to reach me you can send me an email to: nicoyarce@gmail.com
